@@ -1,6 +1,11 @@
 # this is `H1` header
 ## this is `H2` header
 
+
+- [x] this line is mandatory
+- [ ] this line is optional
+- [x] this is pre-req
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
